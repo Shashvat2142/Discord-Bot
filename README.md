@@ -1,0 +1,1 @@
+Developed a Discord bot that can generate short IDs for URLs and handle user interactions. The bot listens for specific messages and commands, responding appropriately to enhance user engagement within the Discord server. The bot responds to specific user messages and handles interactions efficiently.
